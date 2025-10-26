@@ -23,7 +23,7 @@ Theme adaptation: The theme is conveyed through the game’s story and crafting 
    - Combine items to craft usable equipment.
    - **Warning:** if you choose a card whose requirement you can’t meet, the game over.
 3. Language  
-   - Turkish
+   - English
 
 🎯 **Goal:** Reach one of the three existing endings.
 
